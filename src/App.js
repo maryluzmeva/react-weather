@@ -10,7 +10,7 @@ export default function App() {
 
         
         <footer>
-          Created by 👩🏽‍💻
+          Coded by 👩🏽‍💻 {" "}
           <a href= "https://www.linkedin.com/in/maryluz-mendez-vargas-bbb23824/"
           target="_blank"
           rel="noreferrer">
