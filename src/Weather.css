@@ -3,9 +3,6 @@
   border: 1px solid #ffffff;
   padding: 16px;
   border-radius: 4px;
-  background-image: url("../public/bg.png");
-  background-size: cover;
-  background-position-y: 30%;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -13,8 +10,8 @@
   font-size: 30px;
   font-weight: 200;
   margin: 20px 0 0 0;
-  line-height: 30px;
-  color:#ffffff;
+  line-height: 40px;
+  color: #000;
 }
 
 .Weather ul {
@@ -40,7 +37,7 @@
 }
 
 .Weather canvas {
-  margin: 20px auto;
+  margin: 30px auto;
 }
 
 .Weather .unit {
