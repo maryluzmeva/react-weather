@@ -16,7 +16,7 @@ export default function WeatherInfo(props) {
         <div className="col-6">
           <div className="d-flex">
             <div>
-              {props.data.condition.icon}
+              <img alt="icon" src={`https://shecodes-assets.s3.amazonaws.com/api/weather/icons/${props.data.icon}.png`}/>
             </div>
 
             <div>
